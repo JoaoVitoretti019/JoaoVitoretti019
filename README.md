@@ -8,9 +8,8 @@ Me chamo João Antonio Vitoretti, tenho 18 anos e sou natural de Leme-SP. Conclu
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="linkedin" 
-            title="Confira meu Linkedin!" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
-          "
+            title="Meu Linkedin" 
+            src="https://custom-icon-badges.demolab.com/linkedin/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="www.linkedin.com/in/joão-antonio-a114a33a9">
