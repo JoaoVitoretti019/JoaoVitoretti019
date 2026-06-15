@@ -9,8 +9,7 @@ Me chamo João Antonio Vitoretti, tenho 18 anos e sou natural de Leme-SP. Conclu
         <img 
             alt="linkedin" 
             title="Confira meu Linkedin!" 
-            src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
           "
         />
     </a>
