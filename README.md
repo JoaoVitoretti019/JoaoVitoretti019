@@ -1,5 +1,8 @@
 # João Vitoretti
 
+[![🇧🇷 Português](https://img.shields.io/badge/🇧🇷-Português-success)](README.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸-English-blue)](README.en.md)
+
 **`Desenvolvedor Junior`**
 
 Me chamo João Antonio Vitoretti, tenho 18 anos e sou natural de Leme-SP. Concluí o ensino médio/técnico na Etec Dep. Salim Sedeh, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Sou apaixonado por tecnologia e busco um emprego, preferenncialmente Home Office ou Híbrido, onde eu possa evoluir e me desenvolver na área da técnologia.
