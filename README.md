@@ -3,17 +3,7 @@
 **`Desenvolvedor Junior`**
 
 Me chamo João Antonio Vitoretti, tenho 18 anos e sou natural de Leme-SP. Concluí o ensino médio/técnico na Etec Dep. Salim Sedeh, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Sou apaixonado por tecnologia e busco um emprego, preferenncialmente Home Office ou Híbrido, onde eu possa evoluir e me desenvolver na área da técnologia.
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="linkedin" 
-            title="Meu Linkedin" 
-            src="https://custom-icon-badges.demolab.com/linkedin/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="www.linkedin.com/in/joão-antonio-a114a33a9">
-        />
+<p>
     <a href="https://github.com/JoãoVitoretti019?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
