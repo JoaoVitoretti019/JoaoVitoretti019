@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# João Vitoretti
 
 **`Desenvolvedor Junior`**
 
