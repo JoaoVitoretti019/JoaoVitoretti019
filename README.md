@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Larissa Kich
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Junior`**
 
 Me chamo João Antonio Vitoretti, tenho 18 anos e sou natural de Leme-SP. Concluí o ensino médio/técnico na Etec Dep. Salim Sedeh, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Sou apaixonado por tecnologia e busco um emprego, preferenncialmente Home Office ou Híbrido, onde eu possa evoluir e me desenvolver na área da técnologia.
 
@@ -98,14 +98,14 @@ Me chamo João Antonio Vitoretti, tenho 18 anos e sou natural de Leme-SP. Conclu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JoaoVitoretti019&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitoretti019&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
